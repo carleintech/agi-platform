@@ -1,0 +1,13 @@
+{
+  "name": "agi-platform",
+  "version": "1.0.0",
+  "description": "AGI - Global Access to Justice Platform for Haiti",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Erickharlein Pierre",
+  "license": "MIT",
+  "packageManager": "pnpm@10.12.1"
+}
